@@ -5,6 +5,9 @@ python:
 
 sudo: false
 
+before_install:
+  - apt-get install -y libwww-perl libgmp3-dev
+  
 # command to install dependencies
 
 install: "pip install -r requirements.txt"
