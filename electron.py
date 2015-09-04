@@ -1,4 +1,5 @@
-#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
 # list of words from http://en.wiktionary.org/wiki/Wiktionary:Frequency_lists/Contemporary_poetry
 
 
