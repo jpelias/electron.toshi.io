@@ -1814,7 +1814,7 @@ for joder in range(10000):
 
 
 
-    print joder
+    print joder ,"\r",
 
 
     if acumulado > 0:
