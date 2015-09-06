@@ -8,7 +8,7 @@
 #sudo pip install gmpy
 
 
-import os
+# import os
 from time import sleep
 import sys, ecdsa, hashlib, binascii
 from addrgen import addr_from_mpk
